@@ -251,7 +251,7 @@ function AddHud() {
         }
 
         setTimeout(() => {
-            createNotification('<i class=""></i>', '#004b0c', 'хуесос', 'Сборка от', 200, 6000);
+            createNotification('<i class=""></i>', '#004b0c', 't.me/abuserworkshop', 'Сборка от', 200, 6000);
             createNotification('<i class=""></i>', '#004680', 'Смена радаров', 'Нажмите Правый Shift для выбора радара', 800, 7000);
         }, 1000);
     })();
