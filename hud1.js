@@ -1843,5 +1843,4 @@ AddHud();
     }, 100);
 
     applyRadarType(1);
-    AddHud();
 })(); 
